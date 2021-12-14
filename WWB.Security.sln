@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWB.Security", "src\WWB.Sec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.WebApi", "src\Sample.WebApi\Sample.WebApi.csproj", "{2E5D29DD-8A98-4395-8647-30C1AC2F20CE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{B1414CFB-BC82-409D-B43D-9AD16A92C8A8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B1414CFB-BC82-409D-B43D-9AD16A92C8A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{C35BBC75-8D7D-47D5-B793-E8046952B00E}"
 	ProjectSection(SolutionItems) = preProject
