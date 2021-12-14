@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWB.Security", "WWB.Security\WWB.Security.csproj", "{37062DEE-27FA-4B3D-88DF-D22FF58DCB1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWB.Security", "src\WWB.Security\WWB.Security.csproj", "{37062DEE-27FA-4B3D-88DF-D22FF58DCB1A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.WebApi", "Sample.WebApi\Sample.WebApi.csproj", "{2E5D29DD-8A98-4395-8647-30C1AC2F20CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.WebApi", "src\Sample.WebApi\Sample.WebApi.csproj", "{2E5D29DD-8A98-4395-8647-30C1AC2F20CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{B1414CFB-BC82-409D-B43D-9AD16A92C8A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{C35BBC75-8D7D-47D5-B793-E8046952B00E}"
 	ProjectSection(SolutionItems) = preProject
-		..\.github\workflows\dotnet.yml = ..\.github\workflows\dotnet.yml
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
 	EndProjectSection
 EndProject
 Global
